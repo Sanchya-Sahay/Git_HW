@@ -1,2 +1,6 @@
 Hi I am a .csv file!!
+<<<<<<< HEAD
 Making a change in the file on master branch.
+=======
+Adding a new line to make a change!
+>>>>>>> feature1
